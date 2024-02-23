@@ -146,6 +146,7 @@
 - [Maximising Observability with New Relic Logs](https://newrelic.com/events/2023-10-26/maximising-observability-with-new-relic-logs-emea-nru)
 - [Counting costs: mastering bills, expenses and more in FreeAgent](https://www.freeagent.com/small-businesses/recordings/counting-costs/)
 - [Frontend Web Development: In-Depth Project Tutorial](https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/)
+- [Learn React 18 with Redux Toolkit](https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/)
 ### Articles
 - [2024 eCommerce Marketing Trends](https://www.digitalsix.co.uk/news-and-insights/ecommerce-marketing-trends/) by DigitalSix
 - [Top E-commerce Trends 2024: Insights From Experts to Grow Your Business](https://www.sendcloud.com/ecommerce-trends-2024/) by sendcloud
@@ -154,7 +155,6 @@
 - [SEO Anti-patterns: 301 redirect all your 404s to your homepage](https://yoast.com/seo-anti-patterns-301-redirect-all-your-404s-to-your-homepage/)
 - [NewRelic - Drop log data with drop filter rules](https://docs.newrelic.com/docs/logs/ui-data/drop-data-drop-filter-rules/)
 ### How-Tos
-- [Learn React 18 with Redux Toolkit](https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/)
 - [How to fix puppetteer error while loading shared libraries: libX11-xcb.so.1: cannot open shared object file: No such file or directory](https://medium.com/@ssmak/how-to-fix-puppetteer-error-while-loading-shared-libraries-libx11-xcb-so-1-c1918b75acc3)
 - [How to get the size of a table in MySQL](https://www.atlassian.com/data/admin/how-to-get-the-size-of-a-table-in-mysql)
 - [Tracking Errors with Google Tag Manager: 5 Things to Measure](https://www.analyticsmania.com/post/tracking-errors-with-google-tag-manager/)
