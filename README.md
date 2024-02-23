@@ -11,9 +11,6 @@
 - [Tools](#tools)
 - [Utils](#utils)
 - [Misc](#misc)
-- [Webinars](#webinars)
-- [Articles](#articles)
-- [How-Tos](#how-tos)
 
 
 ---
@@ -21,6 +18,10 @@
 ## [Magento](https://github.com/magento/magento2)
 - [Mage-OS](https://mage-os.org/)
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2)
+### Documentation
+- [System requirements](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html)
+- [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=en)
+- [Marketplace](https://commercemarketplace.adobe.com/)
 ### Modules
 #### Free
 - [yireo/magento2-replace-all](https://github.com/yireo/magento2-replace-all) Magento 2 removal of all optional modules
@@ -38,17 +39,14 @@
 - [JaJuMa Hyvä PWA](https://commercemarketplace.adobe.com/jajuma-module-hyva-pwa.html)  JaJuMa Hyvä PWA enables store owners to pass the Lighthouse PWA check with their Magento 2 site with Hyvä Theme (& Luma) frontend.
 - [cmtickle/module-elastic-apm](https://github.com/cmtickle/elastic-apm-magento) Elastic APM Integration for Magento 2
 #### Paid
-[Mageplaza - Backend Tools for Magento 2](https://www.mageplaza.com/magento-2-backend-tools/) Magento 2 Backend Tools allows stores to manage backend tasks smoothly.
+- [Mageplaza - Backend Tools for Magento 2](https://www.mageplaza.com/magento-2-backend-tools/) Magento 2 Backend Tools allows stores to manage backend tasks smoothly.
+- [Web Cooking - Google Analytics 4 for Magento2](https://restaurant.web-cooking.net/seo/magento2-google-analytics4.html) Google Analytics 4 extension for Magento allow you to use GA4 easily on your store
 ### Themes
-- [Hyvä](https://docs.hyva.io/index.html)
+- [Hyvä](https://docs.hyva.io/index.html) Documentation
 - [hyva-themes/module-magento2-admin](https://github.com/hyva-themes/magento2-hyva-admin) This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
-### Documentation
-- [System requirements](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html)
-- [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=en)
-- [Marketplace](https://commercemarketplace.adobe.com/)
 ### Webinar
 - [Meet Magento UK](https://www.youtube.com/@meetmagentouk)
-- [MM23UK Playlist](hhttps://www.youtube.com/playlist?list=PLlUxtxNX9ZEwKGxI-AZBuy7evLcOFM8VM)
+- [MM23UK Playlist](https://www.youtube.com/playlist?list=PLlUxtxNX9ZEwKGxI-AZBuy7evLcOFM8VM)
 - [Beyond The Cart Episode 1 - How To Increase Customer Retention In A Struggling Economy](https://www.youtube.com/watch?v=xCKjg9eqSvM&ab_channel=FoundationCommerce)
 - [Magento 2.4 Payment Integration](https://www.youtube.com/watch?v=kBFD8qjL1qU&ab_channel=MaxPronko)
 - [Another Magento Dev](https://www.youtube.com/@anothermagentodev9161/videos)
@@ -77,21 +75,23 @@
 - [How to extend a Javascript Widget in Magento 2](https://store.magenest.com/blog/javascript/)
 - [How to Use Message Queue in Magento 2](https://www.rohanhapani.com/how-to-use-message-queue-in-magento-2/)
 
-## Laravel
+## [Laravel](https://github.com/laravel/framework)
 - [Laravel Zero](https://laravel-zero.com/) Micro-framework for console applications
+### Documentation
+- [The PHP Framework for Web Artisans](https://laravel.com/docs/10.x)
+- [Laravel Sanctum Doc](https://laravel.com/docs/10.x/sanctum) Laravel Sanctum documentation
+- [Laravel Passport Doc](https://laravel.com/docs/10.x/passport) Laravel Passport documentation
 ### Modules
 #### Free
+- [laravel-frontend-presets/argon](https://github.com/creativetimofficial/argon-dashboard-laravel) Argon Dashboard 2 Laravel
 - [laravel/sanctum](https://github.com/laravel/sanctum) Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.
 - [laravel/passport](https://github.com/laravel/passport) Laravel Passport provides OAuth2 server support to Laravel.
 - [lomkit/laravel-rest-api](https://github.com/lomkit/laravel-rest-api) A package to build quick and robust rest api for the Laravel framework.
 - [justbetter/laravel-magento-client](https://github.com/justbetter/laravel-magento-client) A client to communicate with Magento from your Laravel application.
 - [spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v1/introduction) Create PDFs in Laravel apps
-
+- [require qcod/laravel-app-settings](https://github.com/qcod/laravel-app-settings) Use qcod/laravel-app-settings to add settings manager with UI in your Laravel app. It stores settings in the database and by default uses Bootstrap 4 for styling but you can configure it to work with any css system.
 #### Paid
-### Documentation
-- [The PHP Framework for Web Artisans](https://laravel.com/docs/10.x)
-- [Laravel Sanctum Doc](https://laravel.com/docs/10.x/sanctum) Laravel Sanctum documentation
-- [Laravel Passport Doc](https://laravel.com/docs/10.x/passport) Laravel Passport documentation
+- [Backpack for Laravel](https://backpackforlaravel.com/) Backpack is a collection of Laravel packages that help you build custom administration panels, for anything from presentation websites to complex web applications.
 ### Webinar
 - [Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 - [PhpStorm for Laravel Developers](https://laracasts.com/series/phpstorm-for-laravel-developers)
