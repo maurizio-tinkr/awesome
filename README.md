@@ -160,3 +160,4 @@
 - [Tracking Errors with Google Tag Manager: 5 Things to Measure](https://www.analyticsmania.com/post/tracking-errors-with-google-tag-manager/)
 - [Beginner Web Dev Tutorial – Build a Weather App with Next.js & TypeScript](https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/)
 - [Create an Animated Physics Game with JavaScript](https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/)
+- [How to get the size of a table in MySQL](https://www.atlassian.com/data/admin/how-to-get-the-size-of-a-table-in-mysql)
