@@ -126,6 +126,7 @@
 - [Mail tester](https://www.mail-tester.com/) Test the Spammyness of your Emails
 - [My IP v1](https://api.my-ip.io/v1/ip) simple version
 - [My IP v2](https://api.my-ip.io/v2/ip) detailed version
+- [ipify IPV4](https://api.ipify.org/?format=json)
 - [Pasteboard](https://pasteboard.co/) Easy Image Uploads
 - [PHP Sandbox](https://onlinephp.io/) Test your PHP code with this code tester
 - [Dynamic Dummy Image Generator](https://dummyimage.com/)
